@@ -38,6 +38,8 @@ A File Rename Bot with Custom Thumbnail Support
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Vigneshwaranbad/RENAME-PRO&branch=main&name=RenameBot)
+
 
 
 ## Bot Commands
